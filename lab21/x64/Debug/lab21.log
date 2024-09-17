@@ -1,2 +1,3 @@
 ﻿  lab21.cpp
+D:\Юра\lab21\lab21\lab21.cpp(14,12): warning C4101: 'z2': unreferenced local variable
   lab21.vcxproj -> D:\Юра\lab21\x64\Debug\lab21.exe
